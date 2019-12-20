@@ -2,6 +2,7 @@
 
 使用卷积神经网络以及循环神经网络进行中文文本分类
 查看讲解：[http://www.tensorflownews.com/2017/11/04/text-classification-with-cnn-and-rnn/](http://www.tensorflownews.com/2017/11/04/text-classification-with-cnn-and-rnn/)
+
 CNN做句子分类的论文可以参看: [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 
 还可以去读dennybritz大牛的博客：[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
